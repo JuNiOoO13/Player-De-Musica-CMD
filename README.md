@@ -1,2 +1,2 @@
 # Player-De-Musica-CMD
-É  um player de musica feito no CMD , O designers são desenhadas com ASCII ART , usa libs como Youtube Explode , NAudio, Figgle, .Este projeto foi feito com intuito de me aprofundar em C# fazendo algo diferente do que eu já tinha visto
+É um player de música criado no CMD. Os designs são feitos com arte ASCII e ele utiliza bibliotecas como Youtube Explode, NAudio e Figgle. Este projeto foi desenvolvido com o objetivo de me aprofundar em C# e criar algo diferente do que já tinha visto.
