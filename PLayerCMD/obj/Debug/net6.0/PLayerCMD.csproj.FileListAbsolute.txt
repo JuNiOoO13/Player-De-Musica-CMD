@@ -1,0 +1,75 @@
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.AssemblyReference.cache
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.AssemblyInfo.cs
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.exe
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.deps.json
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.runtimeconfig.json
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.pdb
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\Figgle.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\bin\Debug\net6.0\YoutubeExplode.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.CopyComplete
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\refint\PLayerCMD.dll
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.pdb
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.genruntimeconfig.cache
+C:\Users\junio\source\repos\PLayerCMD\PLayerCMD\obj\Debug\net6.0\ref\PLayerCMD.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.exe
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.deps.json
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.runtimeconfig.json
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.pdb
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\Figgle.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\bin\Debug\net6.0\YoutubeExplode.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.AssemblyReference.cache
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.AssemblyInfo.cs
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.CopyComplete
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\refint\PLayerCMD.dll
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.pdb
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.genruntimeconfig.cache
+C:\Users\junio\Desktop\Minhas Coisas\Programação\Programação C#\CodigosFonte\PlayerCMD\PLayerCMD\obj\Debug\net6.0\ref\PLayerCMD.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.exe
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.deps.json
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.runtimeconfig.json
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\PLayerCMD.pdb
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\Figgle.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\bin\Debug\net6.0\YoutubeExplode.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.AssemblyReference.cache
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.AssemblyInfo.cs
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.csproj.CopyComplete
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\refint\PLayerCMD.dll
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.pdb
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\PLayerCMD.genruntimeconfig.cache
+C:\Users\junio\Desktop\PlayerCMD\PLayerCMD\obj\Debug\net6.0\ref\PLayerCMD.dll
